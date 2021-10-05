@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Contador</string>
+    <string name="titulo_ventana">Contador</string>
+    <string name="lbl_button">Aumentar</string>
+</resources>
